@@ -1,0 +1,5 @@
+{
+  "name": "MSP AI Ticket Assistant",
+  "description": "A ConnectWise-style ticketing dashboard integrated with Gemini AI to analyze technical issues, suggest remediation steps, and generate PowerShell scripts for MSP technicians.",
+  "requestFramePermissions": []
+}
